@@ -2,7 +2,7 @@
 # USAGE
 $ apt update && apt upgrade
 
-$ pkg install python -y
+$ pkg install python3 -y
 
 $ git clone https://github.com/MY-AnggA/landean.git
 
